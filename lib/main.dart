@@ -25,7 +25,7 @@ class _QuotesListState extends State<QuotesList> {
 
   Widget quoteTemplate(quote){
     return Card(
-        margin: EdgeInsets.fromLTRB(10.0, 16.0, 16.0, 0.0),
+        margin: EdgeInsets.fromLTRB(10.0, 15.0, 15.0, 0.0),
         child : Column(
           children: <Widget>[
             Text(
